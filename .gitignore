@@ -1,3 +1,4 @@
+
 /target
 *.log
 *.iml
@@ -5,4 +6,5 @@
 .classpath
 .project
 .settings/
+/src/main/resources/application.properties
 
